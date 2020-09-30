@@ -1,0 +1,15 @@
+.red {
+  color: #800000;
+}
+
+.gray {
+  background: #C0C0C0;
+}
+
+.div1 {
+  float: left; width: 49%;
+}
+
+.div2 {
+  float: right; width: 49%;
+}
